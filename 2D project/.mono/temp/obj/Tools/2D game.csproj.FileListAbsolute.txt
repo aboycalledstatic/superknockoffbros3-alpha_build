@@ -1,0 +1,6 @@
+E:\Users\Owner\Documents\GitHub\superknockoffbros3-alpha_build\2D project\.mono\temp\bin\Tools\2D game.dll
+E:\Users\Owner\Documents\GitHub\superknockoffbros3-alpha_build\2D project\.mono\temp\bin\Tools\2D game.pdb
+E:\Users\Owner\Documents\GitHub\superknockoffbros3-alpha_build\2D project\.mono\temp\obj\Tools\2D game.csprojAssemblyReference.cache
+E:\Users\Owner\Documents\GitHub\superknockoffbros3-alpha_build\2D project\.mono\temp\obj\Tools\2D game.csproj.CoreCompileInputs.cache
+E:\Users\Owner\Documents\GitHub\superknockoffbros3-alpha_build\2D project\.mono\temp\obj\Tools\2D game.dll
+E:\Users\Owner\Documents\GitHub\superknockoffbros3-alpha_build\2D project\.mono\temp\obj\Tools\2D game.pdb
